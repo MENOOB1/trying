@@ -14,3 +14,6 @@ make projects in javascript
 
 
 new branch in branches.txt"./some.txt"
+
+
+added to master branch
